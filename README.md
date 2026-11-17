@@ -28,7 +28,7 @@ Best for: undergrads, grad students, and learners reviewing lectures, talks, and
 Clone into the WorkBuddy user skills directory (available across all projects):
 
 ```bash
-git clone https://github.com/<你的用户名>/lecture-notes.git ~/.workbuddy/skills/lecture-notes
+git clone https://github.com/bao-AO/lecture-notes.git ~/.workbuddy/skills/lecture-notes
 ```
 
 方式二：下载 ZIP，解压到 `~/.workbuddy/skills/lecture-notes/`
