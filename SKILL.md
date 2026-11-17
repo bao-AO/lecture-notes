@@ -93,6 +93,7 @@ agent_created: true
 - `keypoint_detection.md`：识别课堂重点的信号与讲授脉络的重建方法。
 - `enrichment_search.md`：检索锚点提取、检索词构造、术语校正与资料整合规则。
 - `output_template.md`：最终 Markdown 笔记的结构模板、写法示例与写作要求。
+- `platform_adapters.md`：各平台的能力落地对照，含无内置转写时的本地方案。
 
 ### scripts/
 
